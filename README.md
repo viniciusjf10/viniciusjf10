@@ -2,6 +2,7 @@
 
 #### Aqui estão algumas informções sobre mim:
 
+#### Link do meu curriculo Lattes: http://lattes.cnpq.br/1937012780371906
 #### Link do meu linkedn: https://www.linkedin.com/in/vinicius-almeida-jf/
 #### Link do meu Instagram: https://www.instagram.com/vinicius.bahls/
 #### Vamos nos conectar?
