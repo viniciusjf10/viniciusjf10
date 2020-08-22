@@ -2,7 +2,7 @@
 
 ![Viniciusjf10's github stats](https://github-readme-stats.vercel.app/api?username=viniciusjf10&show_icons=true&theme=prussian&count_private=true&include_all_commits=true)
 <p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusjf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusjf10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p>
 
 #### Aqui estão algumas informções sobre mim:
